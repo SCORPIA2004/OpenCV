@@ -1,9 +1,9 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread("photos/office.jpg")
+img = cv.imread("photos/corp.jpg")
 
     # code goes here
 
-cv.imshow("office", img)
+cv.imshow("corp", img)
 cv.waitKey(0)
